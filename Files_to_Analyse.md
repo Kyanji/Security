@@ -1,5 +1,5 @@
 # Linux
-`` /etc/issue (A message or system identification to be printed before the login prompt.)
+```bash  /etc/issue (A message or system identification to be printed before the login prompt.)
 /etc/motd (Message of the day banner content. Can contain information about the system owners or use of the system.)
 /etc/passwd 
 /etc/group 
@@ -10,7 +10,7 @@
 $USER/.bash_history or .profile
 /root/.bash_history or .profile
 
-``
+```
 
 # Web
 .htaccess
