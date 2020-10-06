@@ -1,0 +1,13 @@
+
+/etc/issue (A message or system identification to be printed before the login prompt.)
+/etc/motd (Message of the day banner content. Can contain information about the system owners or use of the system.)
+/etc/passwd 
+/etc/group 
+/etc/resolv.conf (might be better than /etc/passwd for triggering IDS sigs)
+/etc/shadow
+/home/[USERNAME]/.bash_history or .profile
+~/.bash_history or .profile
+$USER/.bash_history or .profile
+/root/.bash_history or .profile
+
+
