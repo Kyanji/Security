@@ -13,17 +13,20 @@ $USER/.bash_history or .profile
 ```
 
 # Web
+```bash 
 .htaccess
 config.php
-
+```
 # SSH
+```bash 
 authorized_keys
 id_rsa
 id_rsa.keystore
 id_rsa.pub
 known_hosts
-
+```
 # LOG
+```bash 
 /etc/httpd/logs/acces_log 
 /etc/httpd/logs/error_log 
 /var/www/logs/access_log 
@@ -35,14 +38,16 @@ known_hosts
 /var/log/apache/access.log 
 /var/log/apache2/access.log
 /var/log/access_log
-
+```
 # USER
+```bash 
 .bash_history
 .mysql_history
 .my.cnf
-
+```
 # Proc
 ###  /proc/PID  - /proc/PID/cmdline
+```bash
 /proc/sched_debug # Can be used to see what processes the machine is running
 /proc/mounts
 /proc/net/arp
@@ -52,10 +57,11 @@ known_hosts
 /proc/net/fib_trie
 /proc/version
 /proc/self/environ
-
+```
 ## LOG INJECTION / Log poisoning
 
 # WINDOWS
+```bash 
 c:\WINDOWS\system32\eula.txt
 c:\boot.ini  
 c:\WINDOWS\win.ini  
@@ -73,14 +79,15 @@ c:\apache\php\php.ini
 c:\xampp\apache\bin\php.ini  
 c:\home2\bin\stable\apache\php.ini  
 c:\home\bin\stable\apache\php.ini
-
+```
 # PHP SESSION WINDOWS
+```bash 
 c:\WINDOWS\TEMP\  
 c:\php\sessions\  
 c:\php5\sessions\  
 c:\php4\sessions\
 
-
+```
 
 
 
